@@ -1,0 +1,43 @@
+🚀 Project Success: Online Retail Store Dashboard🚀
+
+I recently completed a project that involved creating a comprehensive dashboard to address critical questions posed by our CEO and CMO. Using Power BI and Tableau, I transformed raw data into actionable insights to aid in strategic decision-making. Here’s a glimpse into the project:
+
+🛠 Project Objective:
+To create visuals that address the key questions from the CEO and CMO of an online retail store, enabling them to make informed decisions for the business.
+
+📊 Data Cleanup:
+Before diving into the analysis, I performed extensive data cleanup:
+- Ensured that the quantity sold was not below 1 unit.
+- Checked that the unit price was not below $0.
+Using conditional formulas and data transformation methods, I excluded erroneous data to ensure accuracy in our visuals.
+
+🎨 Visuals Created:
+
+1. Monthly Revenue Time Series (2011):
+   - Visualized the monthly revenue trends for 2011 to help the CEO identify seasonal patterns and forecast for the next year.
+
+2. Top 10 Countries by Revenue:
+   - Created a bar chart excluding the United Kingdom to show the top 10 revenue-generating countries along with quantities sold, helping the CMO identify key markets.
+
+3. Top 10 Customers by Revenue:
+   - Designed a descending bar chart to highlight the top revenue-generating customers, enabling targeted customer satisfaction strategies.
+
+4. Global Demand Analysis:
+   - Mapped out the demand for products across all countries (excluding the UK) to assist the CEO in identifying regions for potential expansion.
+
+💼 Tools Used:
+- Power BI
+-Excel For Quick Analysis
+-PowerPoint For Presentation
+
+💡 Key Insights:
+- Achieved a total revenue of $9.84M in 2011 with significant year-over-year growth.
+- Identified Netherlands, Ireland, Germany, France, and Australia as top revenue-generating countries outside the UK.
+- Highlighted the top customer, generating $271.61K in revenue.
+
+✨ Results:
+The dashboard has provided the CEO and CMO with clear, data-driven insights, facilitating better strategic planning and customer targeting. This project underscores the power of data visualization in driving business growth.
+
+Pdf:
+
+#DataVisualization #PowerBI #Tableau #BusinessIntelligence #DataAnalysis #RetailAnalytics #CustomerInsights #RevenueGrowth
